@@ -3,7 +3,7 @@
 
 <h1>Este es un titulo grande</h1>
 
-<img src="https://i.pinimg.com/originals/a7/fd/4b/a7fd4bb44d5ce2a9f1270d66fd875b16.jpg" width=900px>
+<img src="https://i.pinimg.com/originals/a7/fd/4b/a7fd4bb44d5ce2a9f1270d66fd875b16.jpg" style="border-radius:10px;" width=900px>
 
 <ul>
   <li>1</li>
