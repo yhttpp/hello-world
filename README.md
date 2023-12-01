@@ -3,7 +3,7 @@
 
 <h1>Este es un titulo grande</h1>
 
-<style>
+<style type="text/css">
 
   .imagen {
     border-radius:4px;
